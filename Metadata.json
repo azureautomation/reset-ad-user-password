@@ -1,0 +1,20 @@
+{
+    "Author": "Daniel \u00d6rneling",
+    "ContentSize": 1039,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/reset-ad-user-password/master/ResetADUserPwd.ps1",
+    "DownloadCount": 1131,
+    "Id": "Reset-AD-User-Password-5bf143bc",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 210,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2016-1-14T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Use this Automation Runbook to reset the password of specific AD Users in a really easy way. Find a complete setup guide on my blog here: http://wp.me/p5vjxs-4wR",
+    "Title": "Reset AD User Password",
+    "UpdatedDate": "2016-1-14T00:00:00",
+    "Url": "https://github.com/azureautomation/reset-ad-user-password",
+    "UserTags": "Azure, Microsoft Azure, AD"
+}
